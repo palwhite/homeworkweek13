@@ -66,7 +66,6 @@ public class AnAustralianCominToUKForTourism extends Utility {
 
     public String confirmmessage(){
         return getTextFromElement(resultMessage);
-
     }
 
     public void clickNextStepButton(){
